@@ -1,6 +1,6 @@
 {
   "name": "dots",
-  "main": "dist/dots-bundle.min.js",
+  "main": "src/dots.js",
   "description": "a jquery spinner of an animated [...] that is lightboxed.",
   "keywords": [
     "spinner",
